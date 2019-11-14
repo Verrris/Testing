@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="heroes_name">nama pahlawan</string>
+    <string name="detail">detail</string>
+    <string name="favorite">favorit</string>
+    <string name="share">share</string>
+    <string name="detaildeskripsi">DetailDeskripsi</string>
+    <string name="deksipsi">Deksipsi</string>
+    <string name="judul">Judul</string>
+    <string name="about_name">Testing Aplikasi</string>
+</resources>
